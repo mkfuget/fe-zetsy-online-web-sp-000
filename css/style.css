@@ -46,3 +46,7 @@ h2, p {
 .Press-Images {
   border: 2px solid rgb(111,127,122);
 }
+
+.Press-Images:transition {
+  
+}
