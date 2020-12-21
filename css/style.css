@@ -53,5 +53,5 @@ h2, p {
 }
 
 .trademark{
-  float: right;
+  align: right;
 }
