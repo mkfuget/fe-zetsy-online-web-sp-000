@@ -33,7 +33,7 @@ h1 {
 	border-bottom: 1px solid #ccc;
 }
 
-h2 {
+h2, p {
 	color: rgb(111,127,122);
 }
 
