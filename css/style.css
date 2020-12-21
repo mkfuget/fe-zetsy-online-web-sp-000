@@ -48,5 +48,6 @@ h2, p {
 }
 
 .Press-Images:hover {
-  
+    cursor: pointer;
+
 }
