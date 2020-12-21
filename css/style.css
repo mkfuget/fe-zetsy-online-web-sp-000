@@ -37,4 +37,6 @@ h2, p {
 	color: rgb(111,127,122);
 }
 
-
+img {
+  border: 2px ;
+}
